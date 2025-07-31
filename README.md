@@ -41,7 +41,7 @@ A análise exploratória dos dados de vendas revelou diversos insights important
     * **Média de Venda por Pedido:** A média por pedido foi de **R$ [R$9.632.67]**.
 * **Produtos e Categorias de Maior Impacto:**
     * A categoria **[Monitor LG UltraWide]** e **[Smart TV 55" LG]** são as que mais contribuem para a receita geral.
-    * O **[Seu Produto Mais Vendido por Valor]** se destaca como o produto que mais gerou receita.
+    * O **[Notebook Dell XPS 13]** se destaca como o produto que mais gerou receita.
     * A categoria **Monitor LG UltraWide** e **Smart TV 55" LG** são as que mais contribuem para a receita geral.
 * O **[Notebook Dell XPS 13  ]** se destaca como o produto que mais gerou receita.
     ![Gráfico Top 5 Categorias ou Produtos por Receita](imgs/ProdRec.png)
@@ -83,7 +83,7 @@ Para explorar esta análise em detalhes:
 
 ## Próximos Passos e Possíveis Melhorias
 
-
+Em analise.
 
 ---
 *Este projeto foi desenvolvido como parte de um aprendizado em Data Science, visando demonstrar habilidades em análise de dados com Python.*
